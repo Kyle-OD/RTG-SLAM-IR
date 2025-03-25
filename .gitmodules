@@ -1,12 +1,12 @@
 [submodule "submodules"]
 	path = submodules
-	url = git@github.com:CJAPPLE5/RTG-SLAM-cuda_utils.git
-	branch = main
+	url = https://github.com/CJAPPLE5/RTG-SLAM-cuda_utils.git
 [submodule "thirdParty/pybind"]
 	path = thirdParty/pybind
-	url = git@github.com:CJAPPLE5/RTG-SLAM-PYBIND.git
-	branch = main
+	url = https://github.com/CJAPPLE5/RTG-SLAM-PYBIND.git
 [submodule "thirdParty/ORB-SLAM2-PYBIND"]
 	path = thirdParty/ORB-SLAM2-PYBIND
-	url = git@github.com:CJAPPLE5/RTG-SLAM-BACKEND.git
-	branch = main
+	url = https://github.com/CJAPPLE5/RTG-SLAM-BACKEND.git
+[submodule "ThermalMonoDepth"]
+	path = ThermalMonoDepth
+	url = https://github.com/UkcheolShin/ThermalMonoDepth.git
